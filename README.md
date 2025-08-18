@@ -18,7 +18,7 @@ I am an ethicist who employs programmatic and mathematical methods to conduct re
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/tylerchang)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tylerchang)
 [![Personal Website](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://sites.google.com/view/the-ethical-ai/home)
 
 
